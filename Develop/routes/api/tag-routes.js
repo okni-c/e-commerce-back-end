@@ -30,7 +30,13 @@ router.get('/:id', (req, res) => {
       model: Product
     }
   })
-    .then(tagData => res.json(tagData))
+    .then(tagData => {
+      if (!tagData) {
+        res.status(404).json({ message: 'No tag found with this id' });
+        return;
+      }
+      res.json(tagData);
+    })
     .catch(err => {
       console.log(err);
       res.status(500).json(err);
