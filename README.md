@@ -10,6 +10,7 @@ An E-Commerce back end created using Express.js, MySQL2, Sequelize, and dotenv.
 * [Description](#description)
 * [Installation](#installation)
 * [Preview](#preview)
+* [Tutorial Video](#tutorial-video)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
@@ -35,6 +36,10 @@ npm start
 ## Preview 
     
 ![Application Example Photo](/Develop/assets/example.png)
+
+## Tutorial-Video
+
+[Click to view the Tutorial!](https://drive.google.com/file/d/1EuZ-bivxlht-Dzg3SJssfki_fp1_UowN/view)
 
 
 ## Usage
