@@ -34,7 +34,7 @@ npm start
     
 ## Preview 
     
-[![image.png](https://i.postimg.cc/LswpJX5s/image.png)](https://postimg.cc/HJwKKTQG)
+![Application Example Photo](/Develop/assets/example.png)
 
 
 ## Usage
