@@ -18,8 +18,19 @@ An E-Commerce back end created using Express.js, MySQL2, Sequelize, and dotenv.
     
     
 ## Installation
-    
+
+- Install node packages
+```
 npm install
+```
+- Seed the database
+```
+npm run seed
+```
+- Start the server
+```
+npm start
+```
     
 ## Preview 
     
